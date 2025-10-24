@@ -1,0 +1,34 @@
+/**
+Theme Name: rise-astra-child
+Author: jwogrady
+Author URI: https://github.com/jwogrady/rise-astra-child
+Description: # Rise Astra Child
+
+A custom WordPress child theme for **Rise Local**, built on the [Astra](https://wpastra.com/) framework.  
+Designed for fast-loading, conversion-optimized local business websites that integrate seamlessly with Rise Local’s marketing infrastructure.
+
+## 🚀 Features
+- Lightweight and fully responsive  
+- Local SEO-ready with schema markup  
+- Custom widgets, hooks, and templates for Rise Local pages  
+- Easy deployment via WP CLI or standard WordPress upload  
+- Compatible with Elementor and Gutenberg  
+
+## 🧱 Installation
+1. Install and activate the Astra parent theme.  
+2. Upload or clone this repo into `/wp-content/themes/rise-astra-child`.  
+3. Activate **Rise Astra Child** from your WordPress dashboard.  
+
+## 🧩 Development
+Use this theme for extending Rise Local’s web templates or integrating AI-powered marketing components.  
+Includes starter SCSS and modular PHP for rapid customization.
+
+## 🧠 License
+GPL-2.0 or later.
+
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: rise-astra-child
+Template: astra
+*/
